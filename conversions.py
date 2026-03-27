@@ -20,6 +20,7 @@ def convert_length(value, from_unit, to_unit):
 def convert_weight(value, from_unit, to_unit):
     conversion_factors = {
         'gram': 1,
+        'ton': 1e6,
         'kilogram': 1000,
         'milligram': 0.001,
         'pound': 453.592,
