@@ -14,6 +14,6 @@ Created as coding practice, this project provides a straightforward command-line
 
 ### Usage
 
-1. Copy the GitHub repository to your local machine.
+1. `git clone https://github.com/apathydevil/simpleconverter.git` to clone the repository to your local machine.
 2. Run the `main.py` file to start the converter.
 3. Simply follow the prompts to select the conversion type, input the units and value, and receive the converted result.
